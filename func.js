@@ -11,7 +11,7 @@ car.power = function () {
 };
 
 car.color = 'green';
-console.log("Updated color:", car.color);
+console.log("Updated color1:", car.color);
 
 car.power();
 
