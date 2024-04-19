@@ -7,7 +7,7 @@ car.color = 'black';
 console.log("Initial color:", car.color);
 
 car.power = function () {
-    console.log("Engine power: 2.4");
+    console.log("Engine power: 3.0");
 };
 
 car.color = 'green';
