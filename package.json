@@ -1,4 +1,4 @@
-{
+npm install fs-extra{
   "name": "first_try",
   "version": "1.0.0",
   "description": "for_EPAM",
@@ -15,9 +15,5 @@
   "bugs": {
     "url": "https://github.com/OksanaTysQA/AT_EPAM/issues"
   },
-  "homepage": "https://github.com/OksanaTysQA/AT_EPAM#readme",
-  "dependencies": {
-    "fs-extra": "^11.2.0",
-    "globally": "^0.0.0"
-  }
+  "homepage": "https://github.com/OksanaTysQA/AT_EPAM#readme"
 }
